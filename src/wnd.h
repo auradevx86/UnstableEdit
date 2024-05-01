@@ -12,6 +12,7 @@
 #include <string.h>
 #include <Windows.h>
 #include <CommCtrl.h>
+#include <string>
 #pragma comment(lib, "user32.lib")
 #pragma comment(lib, "comctl32.lib")
 
